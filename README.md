@@ -1,4 +1,4 @@
-# romans_urdf_files
+# Roman's URDF Files
 This is where I keep my urdf files for experiments.
 
 The urdf file that I use in my custom gym environments is the 8-link octopus arm: 
