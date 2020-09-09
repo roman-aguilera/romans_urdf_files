@@ -1,5 +1,8 @@
 # romans_urdf_files
-This is where I keep my urdf files for experiments
+This is where I keep my urdf files for experiments.
 
-The main urdf file that I made is the 8-link octopus arm:
+The urdf file that I use in my custom gym environments is the 8-link octopus arm: 
+https://github.com/roman-aguilera/romans_urdf_files/blob/master/octopus_files/python_scripts_edit_urdf/octopus_generated_8_links.urdf
+
+
 
